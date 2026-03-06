@@ -27,10 +27,4 @@
          <a href=https://www.notion.so/Joung-HowiRyun-31b59b9ce07280a0bf2bf1223dd0cddd?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white&link=https://www.notion.so/Joung-HowiRyun-31b59b9ce07280a0bf2bf1223dd0cddd?source=copy_link"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=superjoung&custom_title=superjoung's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superjoung&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
     
