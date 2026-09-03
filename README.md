@@ -137,7 +137,7 @@
 
 ## 경험과 수상
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <strong>2025</strong><br />
