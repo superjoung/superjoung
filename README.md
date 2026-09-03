@@ -155,7 +155,8 @@ HI-SW 콘텐츠 제작 경진대회 1등
 </td>
 <td width="50%" valign="top">
 <strong>2019</strong><br />
-넷마블 게임 아카데미 4기 최우수상
+넷마블 게임 아카데미<br />
+4기 최우수상
 </td>
 </tr>
 </table>
