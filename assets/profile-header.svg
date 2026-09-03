@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Joung Hoi Ryun — Game Client Developer</title>
+  <desc id="description">Green technical banner for a game client developer portfolio.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2417" />
+      <stop offset="0.55" stop-color="#1B4332" />
+      <stop offset="1" stop-color="#315C40" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#95D5B2" />
+      <stop offset="1" stop-color="#D8F3DC" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#B7E4C7" stroke-width="1" opacity="0.08" />
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" rx="24" fill="url(#background)" />
+  <rect width="1200" height="280" rx="24" fill="url(#grid)" />
+
+  <g opacity="0.9">
+    <path d="M850 52 H1054 L1130 128 L1054 204 H850 L774 128 Z" fill="none" stroke="#74C69D" stroke-width="2" opacity="0.34" />
+    <path d="M892 82 H1026 L1072 128 L1026 174 H892 L846 128 Z" fill="#081C15" fill-opacity="0.36" stroke="#95D5B2" stroke-width="2" />
+    <path d="M775 128 H846 M1072 128 H1130 M959 36 V82 M959 174 V220" stroke="#95D5B2" stroke-width="2" opacity="0.55" />
+    <circle cx="775" cy="128" r="7" fill="#B7E4C7" filter="url(#glow)" />
+    <circle cx="1130" cy="128" r="7" fill="#B7E4C7" filter="url(#glow)" />
+    <circle cx="959" cy="36" r="7" fill="#74C69D" />
+    <circle cx="959" cy="220" r="7" fill="#74C69D" />
+    <rect x="929" y="98" width="60" height="60" rx="12" fill="#2D6A4F" stroke="#D8F3DC" stroke-width="2" />
+    <path d="M944 128 H974 M959 113 V143" stroke="#D8F3DC" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <rect x="64" y="54" width="62" height="6" rx="3" fill="url(#accent)" />
+  <text x="64" y="116" fill="#F1FAF3" font-family="Inter, Pretendard, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.5">JOUNG HOI RYUN</text>
+  <text x="64" y="156" fill="#B7E4C7" font-family="Inter, Pretendard, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3">GAME CLIENT DEVELOPER</text>
+  <text x="64" y="206" fill="#E5F4E8" font-family="Inter, Pretendard, Arial, sans-serif" font-size="17" letter-spacing="0.8">STATE  ·  LIFECYCLE  ·  GAMEPLAY SYSTEMS</text>
+</svg>
