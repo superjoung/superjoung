@@ -1,4 +1,4 @@
-<table>
+<table align="center">
 <tr>
 <td width="68%" valign="top">
 <sub>정회륜 · 게임 클라이언트 개발자</sub>
@@ -101,24 +101,24 @@
 <tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/superjoung/Portfolio-FluX">FluX</a></strong>
-<p>규칙이 전환되는 모바일 액션 미니게임입니다.</p>
+<p>규칙이 전환되는 모바일 액션 미니게임입니다. 규칙 전환 때 이전 상태가 남지 않도록 초기화 경계를 정리했습니다.</p>
 <sub>명시적 초기화 · 레이캐스트 · 스테이지 생명주기</sub>
 </td>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/superjoung/Portfolio-DevilOfGun">Devil of Gun</a></strong>
-<p>비대칭 2인 로컬 협동 슈팅 게임입니다.</p>
+<p>비대칭 2인 로컬 협동 슈팅 게임입니다. 플레이어 이동과 애니메이션 상태 연결을 구현했습니다.</p>
 <sub>C++ 입력 · 스윕 충돌 · 애니메이션 블루프린트</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/superjoung/Portfolio-LittleHacker">Little Hacker</a></strong>
-<p>플릭 경로 기반 모바일 연산 퍼즐 게임입니다.</p>
+<p>플릭 경로 기반 모바일 연산 퍼즐 게임입니다. JSON 기반 스테이지와 턴 되돌리기 흐름을 구성했습니다.</p>
 <sub>JSON 스테이지 데이터 · 레이캐스트 · 턴 되돌리기</sub>
 </td>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/superjoung/Portfolio-GitEducation">Git 교육 게임</a></strong>
-<p>Git 명령을 상태 변화로 보여주는 교육 게임입니다.</p>
+<p>Git 명령을 상태 변화로 보여주는 교육 게임입니다. 명령 입력을 브랜치·파일 상태 변화와 연결했습니다.</p>
 <sub>명령 매핑 · 브랜치·파일 상태 · 퀘스트 UI</sub>
 </td>
 </tr>
