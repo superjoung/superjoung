@@ -25,19 +25,19 @@
 
 <table align="center">
 <tr>
-<td valign="top" nowrap>
+<td valign="top">
 <strong>실행 상태와 생명주기</strong><br /><br />
 코루틴·트윈·이벤트 수명<br />
 재진입·중단·반환 계약<br />
 잔존 실행과 중복 호출의 발생 조건 검증
 </td>
-<td valign="top" nowrap>
+<td valign="top">
 <strong>클라이언트 구조</strong><br /><br />
 팩토리·오브젝트 풀<br />
 명시적 초기화·식별자 기반 UI<br />
 생성·초기화·반환 책임을 실행 경계별로 분리
 </td>
-<td valign="top" nowrap>
+<td valign="top">
 <strong>게임플레이 상호작용</strong><br /><br />
 입력·물리·애니메이션<br />
 레이캐스트·레이어 마스크·안전 영역<br />
