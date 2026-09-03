@@ -16,7 +16,7 @@ Unity와 C#으로 전투·입력·상태 전이를 설계하고, 실제 프로�
 
 > 문제 정의 → 선택 근거 → 실행 흐름 → 검증
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center">
 <strong>8건</strong><br />
@@ -35,7 +35,7 @@ Unity와 C#으로 전투·입력·상태 전이를 설계하고, 실제 프로�
 
 ## 기술 역량
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 <strong>실행 상태와 생명주기</strong><br /><br />
@@ -67,7 +67,7 @@ Unity와 C#으로 전투·입력·상태 전이를 설계하고, 실제 프로�
 
 ## 주요 프로젝트
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <strong>quoridorshooting</strong><br />
@@ -112,7 +112,7 @@ Unity와 C#으로 전투·입력·상태 전이를 설계하고, 실제 프로�
 
 ## 프로젝트별 포트폴리오
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/superjoung/Portfolio-FluX">FluX</a></strong>
