@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Joung Hoi Ryun — Game Client Developer" width="100%" />
-</p>
-
-<p align="center">
   <a href="mailto:asss6868@naver.com"><img src="https://img.shields.io/badge/Email-315C40?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
   <a href="https://www.notion.so/Joung-HowiRyun-31b59b9ce07280a0bf2bf1223dd0cddd?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-4F6F54?style=flat-square&logo=notion&logoColor=white" alt="Portfolio" /></a>
 </p>
@@ -66,4 +62,3 @@ Problem → Design Choice → Runtime Path → Verification
 - Portfolio: [Notion portfolio](https://www.notion.so/Joung-HowiRyun-31b59b9ce07280a0bf2bf1223dd0cddd?source=copy_link)
 
 <sub>Team code and assets remain in their original repositories. Portfolio repositories contain contribution notes, short code excerpts, and links to source material.</sub>
-
