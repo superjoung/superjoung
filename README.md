@@ -103,7 +103,7 @@ Unity와 C#으로 전투·입력·상태 전이를 설계하고, 실제 프로�
 <sub>기술 사례 및 소스 공개</sub>
 <p>증거 수집과 NPC 심문을 연결한 3D 추리 게임입니다. LLM을 제외한 Unity 클라이언트 흐름을 담당했습니다.</p>
 <p><strong>문제</strong><br />UI가 중첩될 때 이전 화면의 입력과 닫기 순서가 충돌했습니다.</p>
-<p><strong>해결</strong><br />후입선출 방식으로 화면 순서를 통합하고 식별자로 데이터를 연결했습니다.</p>
+<p><strong>해결</strong><br />후입선출 화면 구조와 증거 식별자를 적용했습니다.</p>
 <p><strong>기술 근거</strong><br />후입선출 UI · <code>EvidenceID</code> · NavMesh</p>
 <a href="https://github.com/superjoung/Portfolio-Guess">기술 사례 보기</a> · <a href="https://github.com/superjoung/2025-1-LLMJoljakGame">소스 코드 보기</a>
 </td>
