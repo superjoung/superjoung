@@ -47,6 +47,9 @@ Unity와 C#으로 전투·입력·UI의 실행 흐름을 구현합니다.<br />
 
 ### 📌 대표 프로젝트
 
+<details>
+<summary><strong>quoridorshooting · 미기록 구역 · CenterFall · Guess 보기</strong></summary>
+
 각 프로젝트는 **문제 → 선택 이유 → 해결 → 확인** 순으로 정리했습니다.
 
 #### 01. quoridorshooting
@@ -96,6 +99,8 @@ CCTV 채널을 감시하며 이상 현상을 판별하는 게임입니다.
 - **해결** — 후입선출 UI 스택으로 화면을 닫고, `EvidenceID`로 증거 데이터와 표시 요소를 연결했습니다.
 
 [기술 사례 보기 →](https://github.com/superjoung/Portfolio-Guess) · [원본 코드 보기 →](https://github.com/superjoung/2025-1-LLMJoljakGame)
+
+</details>
 
 ---
 
