@@ -51,7 +51,7 @@ Problem → Design Choice → Runtime Path → Verification
 
 ## Recognition & Experience
 
-- **2025** — Minecraft 서버 운영 · 에이트 스튜디오 인턴
+- **2025** — 에이트 스튜디오 인턴
 - **2024** — ICON 해커톤 3등·우수상
 - **2023** — HI-SW 콘텐츠 제작 경진대회 1등
 - **2019** — 넷마블 게임 아카데미 4기 최우수상
